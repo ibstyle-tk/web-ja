@@ -81,7 +81,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: '/year/slug/'
     
 # Other
 markdown: kramdown
