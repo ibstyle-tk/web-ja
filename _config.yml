@@ -13,22 +13,62 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  administrator:
+    name: IB Style Official
+    display_name: IB Style Official
+    gravatar: 8e7606fcd12b7f2855455f8fba0bbfa2f
+    web: https://ibstyle.tk/
+    twitter: https://twitter.com/ibstyle_pr
+    description: "IB Style公式アカウントです。"
+  kyosuke.miyamura:
+    name: Kyosuke
+    display_name: Kyosuke
+    gravatar: 8e7606fcd12b7f2855455f8fba0bbfa2f
+    web: https://twitter.com/ibstyle_pr
+    twitter: https://twitter.com/ibstyle_pr
+    description: "準備中"
+  mei.kanda:
+    name: Mei
+    display_name: Mei
+    gravatar: 8e7606fcd12b7f2855455f8fba0bbfa2f
+    web: https://twitter.com/ibstyle_pr
+    twitter: https://twitter.com/ibstyle_pr
+    description: "準備中"
+  shunsuke.nakayama:
+    name: Shunsuke
+    display_name: Shunsuke
+    gravatar: 8e7606fcd12b7f2855455f8fba0bbfa2f
+    web: https://twitter.com/ibstyle_pr
+    twitter: https://twitter.com/ibstyle_pr
+    description: "準備中"
+  koiki.kishi:
+    name: Koiki
+    display_name: Koiki
+    gravatar: 8e7606fcd12b7f2855455f8fba0bbfa2f
+    web: https://twitter.com/ibstyle_pr
+    twitter: https://twitter.com/ibstyle_pr
+    description: "準備中"
+  junya.eriguchi:
+    name: Junya
+    display_name: Junya
+    gravatar: 8e7606fcd12b7f2855455f8fba0bbfa2f
+    web: https://twitter.com/ibstyle_pr
+    twitter: https://twitter.com/ibstyle_pr
+    description: "準備中"
+  manami.fukushima:
+    name: Manami
+    display_name: Manami
+    gravatar: 8e7606fcd12b7f2855455f8fba0bbfa2f
+    web: https://twitter.com/ibstyle_pr
+    twitter: https://twitter.com/ibstyle_pr
+    description: "準備中"
+  miyu.osamura:
+    name: Miyu
+    display_name: Miyu
+    gravatar: 8e7606fcd12b7f2855455f8fba0bbfa2f
+    web: https://twitter.com/ibstyle_pr
+    twitter: https://twitter.com/ibstyle_pr
+    description: "準備中"
 
 # Plugins
 plugins: 
