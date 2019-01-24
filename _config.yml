@@ -84,5 +84,6 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Other
+permalink: '/posts/:slug/'
 markdown: kramdown
 highlighter: rouge
