@@ -4,7 +4,7 @@
 <div class="col-md-6 grid-item">
 <div class="card">
     <a href="{{ post.url | absolute_url }}">
-        <img class="img-fluid" src="https://res.cloudinary.com/ibstyle/image/upload/posts/{{ post.url | remove_first:'posts' | remove:'/' }}/{{ post.url | remove_first:'posts' | remove:'/' }}-tb.png" alt="{{ post.title }}">
+        <img class="img-fluid" src="https://res.cloudinary.com/ibstyle/image/upload/t_thumbnail/posts/{{ post.url | remove_first:'posts' | remove:'/' }}/{{ post.url | remove_first:'posts' | remove:'/' }}-tb.png" alt="{{ post.title }}">
     </a>
     <div class="card-block">
         <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
