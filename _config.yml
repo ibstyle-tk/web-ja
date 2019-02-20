@@ -7,7 +7,7 @@ favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: 
 email: 'mail@ibstyle.tk'
-google_analytics: ''
+google_analytics: 'UA-134828257-2'
 disqus: 'ibstyle'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5c6cbaa79719b800115b64e4&product=sticky-share-buttons"></script>'
 
