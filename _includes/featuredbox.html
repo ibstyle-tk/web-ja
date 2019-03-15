@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-5 wrapthumbnail">
             <a href="{{ post.url | absolute_url }}">
-            <div class="thumbnail" style="background-image:url({{ post.image }});">
+            <div class="thumbnail" style="background-image:url(https://res.cloudinary.com/ibstyle/image/upload/t_thumbnail/posts/{{ page.url | remove_first:'posts' | remove:'/' }}/{{ page.url | remove_first:'posts' | remove:'/' }}-tb.png);">
             </div>
             </a>
         </div>
